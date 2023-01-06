@@ -18,12 +18,12 @@
   <a href="https://www.linkedin.com/in/isurusg99/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@IsuruSG99">
+<!--   <a href="https://medium.com/@IsuruSG99">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://twitter.com/IsuruSG99">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 - :telescope: I’m interested on :
